@@ -4,7 +4,7 @@ I'm Semo ,a 21 years old software engineer ,interested in Full Stack Web Develop
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@semo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/semo_ou7)](https://twitter.com/Ipenywis)  [![Linkedin Badge](https://img.shields.io/badge/-semo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedouallal/) [![Mail Badge](https://img.shields.io/badge/-@semo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/seemo.ou/) 
+[![Twitter Badge](https://img.shields.io/badge/-@semo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/semo_ou7)](https://twitter.com/semo_ou7)  [![Linkedin Badge](https://img.shields.io/badge/-semo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedouallal/) [![Mail Badge](https://img.shields.io/badge/-@semo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/seemo.ou/) 
 
 
 #### Technologies
