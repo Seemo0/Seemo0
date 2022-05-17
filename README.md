@@ -17,5 +17,7 @@ A 21 years old software engineer ,specialized in Full Stack Web Development
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 [![TailwinCSS Badge](https://img.shields.io/badge/-TailwindCSS-61DBFB?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=61DBFB)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#)
+[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-4DB33D?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=4DB33D)](#)
+
 
 
