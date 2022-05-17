@@ -5,7 +5,7 @@ A 21 years old software engineer ,specialized in Full Stack Web Development
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@semo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/semo_ou7)](https://twitter.com/intent/follow?screen_name=semo_ou7)  [![Linkedin Badge](https://img.shields.io/badge/-@semo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedouallal/) [![Mail Badge](https://img.shields.io/badge/-@semo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/seemo.ou/) [![Facebook](https://img.shields.io/badge/-@semo-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://web.facebook.com/SemoOu.75/)
+[![Twitter Badge](https://img.shields.io/badge/-@semo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/semo_ou7)](https://twitter.com/intent/follow?screen_name=semo_ou7) <br/> [![Linkedin Badge](https://img.shields.io/badge/-@semo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedouallal/) [![Mail Badge](https://img.shields.io/badge/-@semo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/seemo.ou/) [![Facebook](https://img.shields.io/badge/-@semo-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://web.facebook.com/SemoOu.75/)
 
 
 
