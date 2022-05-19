@@ -9,7 +9,7 @@ A 21 years old software engineer ,specialized in Full Stack Web Development
 
 
 
-#### Technologies
+#### Technologies:
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
