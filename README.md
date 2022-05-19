@@ -13,7 +13,7 @@ A 21 years old software engineer ,specialized in Full Stack Web Development
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-F0DB4F?style=for-the-badge&labelColor=black&logo=html5&logoColor=F0DB4F)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-EC7B0B?style=for-the-badge&labelColor=black&logo=html5&logoColor=EC7B0B)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-F0DB4F?style=for-the-badge&labelColor=black&logo=css3&logoColor=F0DB4F)](#) </br>
 
 
