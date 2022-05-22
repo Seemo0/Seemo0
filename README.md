@@ -15,7 +15,7 @@ A 21 years old software engineer ,specialized in Front End Web Development
 
 <!--
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-EC7B0B?style=for-the-badge&labelColor=black&logo=html5&logoColor=EC7B0B)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-0BB2EC?style=for-the-badge&labelColor=black&logo=css3&logoColor=0BB2EC)](#) </br>
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-0BB2EC?style=for-the-badge&labelColor=black&logo=css3&logoColor=0BB2EC)](#) </br> -->
 
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
