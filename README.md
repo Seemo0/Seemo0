@@ -31,7 +31,8 @@ A 21 years old software engineer ,specialized in Front End Web Development
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-4DB33D?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=4DB33D)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-c3dce0?style=for-the-badge&labelColor=black&logo=Express&logoColor=c3dce0)](#)
-[![Redux Badge](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)](#)
+<!--
+[![Redux Badge](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)](#) -->
 
 
 
