@@ -10,7 +10,7 @@ A 21 years old developer ,specialized in Front End Web Development
 
 #### Technologies:
 
-<!-- TODO: Make technologies links takes you to repositories -->
+
 
 <!--
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-EC7B0B?style=for-the-badge&labelColor=black&logo=html5&logoColor=EC7B0B)](#)
