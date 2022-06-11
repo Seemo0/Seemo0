@@ -30,7 +30,7 @@ A 21 years old developer ,specialized in Front End Web Development
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-c3dce0?style=for-the-badge&labelColor=black&logo=Express&logoColor=c3dce0)](#)
 [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-4DB33D?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=4DB33D)](#)
-[![Mysql Badge](https://img.shields.io/badge/-Mysql-4DB33D?style=for-the-badge&labelColor=black&logo=Mysql&logoColor=4DB33D)](#)
+[![Mysql Badge](https://img.shields.io/badge/-Mysql-00758f?style=for-the-badge&labelColor=black&logo=Mysql&logoColor=00758f)](#)
 
 <!--
 [![Redux Badge](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)](#) -->
