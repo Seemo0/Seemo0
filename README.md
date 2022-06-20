@@ -29,7 +29,8 @@ A 21 years old developer ,specialized in Full Stack Web Development
 
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express Badge](https://img.shields.io/badge/-Express-c3dce0?style=for-the-badge&labelColor=black&logo=Express&logoColor=c3dce0)](#) </br>
+[![Express Badge](https://img.shields.io/badge/-Express-c3dce0?style=for-the-badge&labelColor=black&logo=Express&logoColor=c3dce0)](#) 
+[![Nextjs Badge](https://img.shields.io/badge/-Nextjs-c3dce0?style=for-the-badge&labelColor=black&logo=Nextjs&logoColor=c3dce0)](#) </br>
 
 
 [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-4DB33D?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=4DB33D)](#)
