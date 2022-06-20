@@ -21,8 +21,8 @@ A 21 years old developer ,specialized in Full Stack Web Development
 
 
 [![Vuejs Badge](https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=42b883)](#) 
-<!--
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)  <br/>.  -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)  <br/>.  
 
 
 [![TailwinCSS Badge](https://img.shields.io/badge/-TailwindCSS-61DBFB?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=61DBFB)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#) <br/>
