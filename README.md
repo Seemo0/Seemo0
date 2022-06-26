@@ -24,13 +24,13 @@ A 21 years old developer ,specialized in Full Stack Web Development
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#) </br> 
 
 
-[![TailwinCSS Badge](https://img.shields.io/badge/-TailwindCSS-61DBFB?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=61DBFB)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#) </br>
-
-
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-c3dce0?style=for-the-badge&labelColor=black&logo=Express&logoColor=c3dce0)](#) 
 [![React-router Badge](https://img.shields.io/badge/-React_router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#) 
 [![Next Badge](https://img.shields.io/badge/-Next-c3dce0?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=c3dce0)](#) </br>
+
+
+[![TailwinCSS Badge](https://img.shields.io/badge/-TailwindCSS-61DBFB?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=61DBFB)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#) </br>
 
 
 [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-4DB33D?style=for-the-badge&labelColor=black&logo=Mongodb&logoColor=4DB33D)](#)
