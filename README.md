@@ -6,7 +6,7 @@ frontend: react/nextjs, tailwind, redux
 
 backend: node/fastify, mongodb/postgres+prisma, docker
 
-other: laravel, flutter, 
+other: laravel, flutter
 ```
 
 :mailbox: Reach me out!
