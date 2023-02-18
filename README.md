@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/98672345/219898848-b658e279-57ac-49e6-bfb9-e3909e7f7608.jpeg)
+![HugeDomains_com](https://user-images.githubusercontent.com/98672345/219899429-3b4d36b3-60d2-4d8b-927f-8298b84d15d7.jpeg)
 ---
 
 ```yaml
