@@ -4,7 +4,7 @@
 ```yaml
 frontend: react/nextjs, tailwind, redux
 
-backend: node/fastify, mongodb/postgres+prisma, docker
+backend: node, mongodb/postgres+prisma, docker
 
 other: laravel, flutter
 ```
