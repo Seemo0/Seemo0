@@ -2,11 +2,11 @@
 ---
 
 ```yaml
-frontend: react/nextjs, tailwind, redux
+frontend: react/nextjs, tailwind/scss, redux.
 
-backend: node, mongodb/postgres+prisma, docker
+backend: node, nestjs, mongodb/postgres+prisma, docker.
 
-other: laravel, flutter
+other: Git, react native.
 ```
 
 :mailbox: Reach me out!
