@@ -6,7 +6,7 @@ frontend: react/nextjs, tailwind/scss, redux/react-query.
 
 backend: nodejs, nestjs, mongodb/postgres+TypeOrm, docker.
 
-other: Git, python, react native, AWS.
+other: Git, python, react native, DevOps/AWS.
 ```
 
 :mailbox: Reach me out!
